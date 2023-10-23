@@ -1,3 +1,3 @@
 # SQLexamples
-в code examples
+примеры запросов
 
